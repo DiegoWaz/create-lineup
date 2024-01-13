@@ -1,4 +1,5 @@
 Projet de Composition d'Équipe de Football
+
 Ce projet est une application web interactive conçue pour créer et visualiser des compositions d'équipe de football. Utilisant une combinaison de technologies modernes, l'application permet aux utilisateurs de sélectionner des formations, d'assigner des joueurs à des positions spécifiques et de sauvegarder ou télécharger la composition finale.
 
 Fonctionnalités
@@ -13,6 +14,7 @@ TypeScript : Langage de programmation typé pour un développement plus sûr et 
 HTML-to-Image : Bibliothèque pour convertir le DOM HTML en images téléchargeables.
 LocalStorage : Utilisation du stockage local du navigateur pour sauvegarder les compositions d'équipe.
 Installation et Démarrage
+
 Pour installer et démarrer le projet sur votre machine locale, suivez ces étapes :
 
 Clonage du Répertoire :
@@ -26,8 +28,6 @@ Lancement de l'Application :
 Copy code
 npm run dev
 
-markdown
-Copy code
 
 ## Utilisation
 
@@ -52,7 +52,3 @@ Ce projet est ouvert aux contributions. Si vous souhaitez contribuer, veuillez s
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Ce modèle de README fournit un aperçu complet de votre projet de 
