@@ -1,8 +1,9 @@
-Projet de Composition d'Équipe de Football
+## Projet de Composition d'Équipe de Football
 
 Ce projet est une application web interactive conçue pour créer et visualiser des compositions d'équipe de football. Utilisant une combinaison de technologies modernes, l'application permet aux utilisateurs de sélectionner des formations, d'assigner des joueurs à des positions spécifiques et de sauvegarder ou télécharger la composition finale.
 
-Fonctionnalités
+## Fonctionnalités
+
 Sélection de Formation : Choisissez parmi plusieurs formations standard comme 4-4-2, 4-3-3, etc.
 Affectation des Joueurs : Assignez des joueurs à chaque position dans la formation choisie.
 Visualisation Intuitive : Visualisez la composition de l'équipe sur un terrain de football virtuel.
@@ -20,7 +21,7 @@ Pour installer et démarrer le projet sur votre machine locale, suivez ces étap
 Clonage du Répertoire :
 bash
 Copy code
-git clone [URL_DU_REPO]
+git clone git@github.com:DiegoWaz/create-lineup.git
 Installation des Dépendances :
 Copy code
 npm install
